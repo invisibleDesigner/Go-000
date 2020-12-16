@@ -74,3 +74,5 @@ func main() {
 		log.Fatal(err)
 	}
 }
+
+// https://github.com/go-kratos/kratos/blob/v2/app.go
