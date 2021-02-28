@@ -49,3 +49,4 @@ func main() {
 	initializeMyApp(db)
 	server.NewServer()
 }
+
